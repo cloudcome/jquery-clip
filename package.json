@@ -1,0 +1,25 @@
+{
+  "name": "jquery-clip",
+  "version": "1.0.1",
+  "description": "jquery.fn.clip 本地图像裁剪",
+  "keywords": [
+    "jquery",
+    "yquery",
+    "ydr",
+    "clip"
+  ],
+  "author": {
+    "name":"cloudcome",
+    "email":"cloudcome@163.com"
+  },
+  "homepage": "https://ydr.me/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudcome/jquery-clip"
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "jquery-clip.js",
+    "dependencies": {}
+  }
+}
